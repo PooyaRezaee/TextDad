@@ -19,4 +19,4 @@ python3 TextDad.py
 - [ ] Enable feture new window in menu bar File
 - [ ] Fix Problem put newline in "Tools/Put/Date or Time"
 - [ ] Change Them without restart programm
-- [ ] Add New Feture or Fix other problem in Programm
+- [ ] Add New Features or Fix other problemes in Programm
