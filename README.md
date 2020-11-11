@@ -3,8 +3,8 @@
 this is a simple text editor
 ## Perpubies
 - Python3
-- Lybrarys Python => qdarkstyle ,PyQt5
-## How install LibrarysPython ?
+- Python libraries => qdarkstyle ,PyQt5
+## How install Python libraries ?
 ```
 python -m pip install qdarkstyle
 python -m pip install pyqt5
