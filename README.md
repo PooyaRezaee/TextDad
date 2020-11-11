@@ -16,7 +16,7 @@ cd TextDad
 python3 TextDad.py
 ```
 ## TODO
-- [] Enable feture new window in menu bar File
-- [] Fix Problem put in newline in "Tools/Put/Date or Time"
-- [] Change Them without restart programm
-- [] Add New Feture or Fix other problem in Programm
+- [ ] Enable feture new window in menu bar File
+- [ ] Fix Problem put in newline in "Tools/Put/Date or Time"
+- [ ] Change Them without restart programm
+- [ ] Add New Feture or Fix other problem in Programm
