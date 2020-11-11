@@ -131,7 +131,7 @@ class Ui_MainWindow(object):
         self.actionCalender.setStatusTip("Open Calender")
         self.actionAbout.setStatusTip("About program and Developer")
         
-        self.plainTextEdit.setStatusTip(f"| TextPad | {str(datetime.now())[0:10]} |")
+        self.plainTextEdit.setStatusTip(f"| TextDad | {str(datetime.now())[0:10]} |")
         # ========================= Dialogs ============================
         self.actionFont.triggered.connect(self.dialog_font)
         self.actionCalender.triggered.connect(self.open_calender)
@@ -260,7 +260,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "TextPad"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "TextDad"))
         self.menuFile.setTitle(_translate("MainWindow", "File"))
         self.menuSave.setTitle(_translate("MainWindow", "Save"))
         self.menuTools.setTitle(_translate("MainWindow", "Tools"))
